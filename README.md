@@ -1,2 +1,2 @@
-# first-chatbot
-this is my first chatbot built on node
+# First-Chatbot
+This is my first chatbot built on Node.JS.
